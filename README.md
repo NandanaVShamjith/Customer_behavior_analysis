@@ -1,97 +1,134 @@
 # Customer_behavior_analysis
-Customer Behavior Analysis project using Python, SQL and Power BI to explore spending patterns, subscription behavior, product performance, age-group trends, and revenue drivers. The dashboard highlights key insights to help understand customer habits and business performance.
 
 Data Analytics Project – End-to-End Pipeline
-
 Overview
 
-This project demonstrates a complete end-to-end data analytics workflow, starting from loading a dataset in Python to building a fully interactive Power BI dashboard. It highlights my skills in Python (EDA & Cleaning), SQL Server (Querying), Data Visualization, and Report Creation.
-The goal of the project is to extract meaningful insights, improve decision-making, and showcase a practical analytics pipeline.
+This project demonstrates a complete end-to-end data analytics workflow, starting from loading a dataset in Python to building a fully interactive Power BI dashboard. It highlights my skills in Python (EDA and Cleaning), SQL Server (Querying), Data Visualization, Report Creation, and Presentation Building.
+The objective is to extract meaningful insights that support business decision-making.
 
- Dataset
+Dataset
+
 The dataset used in this project contains information related to customer purchases (or relevant domain).
-Includes fields such as: customer details, products, sales metrics, dates, and transaction information.
-Source: Public dataset (Kaggle) / Provided dataset.
 
-Tools & Technologies
-Python – Pandas, NumPy, Matplotlib/Seaborn for EDA and data cleaning
-SQL Server – Running complex queries, joins, aggregations
-Power BI – Building dashboards & visual insights
-Microsoft Excel – Basic data checks (if used)
-Gamma App – For designing the project presentation
-GitHub – Version control and project documentation
+Includes fields such as customer details, product information, sales metrics, dates, and transaction data.
+
+Source: Public dataset (Kaggle) or provided dataset.
+
+Tools and Technologies
+
+Python – Pandas, NumPy, Matplotlib/Seaborn
+
+SQL Server – For running analytical queries
+
+Power BI – For building dashboards
+
+Excel – For additional data checks (optional)
+
+Gamma App – For creating the final presentation
+
+GitHub – For version control and documentation
 
 Project Steps
-Data Loading (Python)
-Imported dataset using Pandas
-Checked data types, missing values, duplicates
-Performed initial understanding of dataset shape and structure
+1. Data Loading (Python)
 
-Exploratory Data Analysis (EDA)
-Summary statistics (mean, median, count, distribution)
-Univariate & bivariate analysis
-Outlier detection
-Visualization of key patterns and relationships
+Loaded the dataset using Pandas
 
-Data Cleaning
+Verified data types, column structure, missing values, and dataset shape
+
+2. Exploratory Data Analysis (EDA)
+
+Generated summary statistics
+
+Performed univariate and bivariate analysis
+
+Created visualizations to understand distributions and correlations
+
+Identified outliers and trends
+
+3. Data Cleaning
+
 Handled missing values
+
 Removed duplicates
+
 Treated outliers
-Feature formatting (date conversion, category encoding, etc.)
-Cleaned dataset exported for SQL & Power BI
 
-SQL Analysis (SQL Server)
-Created database & imported cleaned data
-Executed analytical queries including:
-Aggregations (SUM, COUNT, AVG)
-Filtering & grouping
-Business-oriented queries (sales, customers, trends)
+Formatted columns (dates, categories, numerical fields)
 
-Power BI Dashboard
-Connected SQL data to Power BI
-Built interactive visuals:
-Sales trends
-Customer segmentation
-Category performance
-KPIs and drill-down insights
-Added slicers for dynamic exploration
+Exported the cleaned dataset for SQL and Power BI
 
-Report Creation
-Summarized insights, metrics, and findings
-Highlighted key business recommendations
-Structured report using clear visuals and explanations
+4. SQL Analysis (SQL Server)
 
-Presentation (Gamma)
-Final project presentation built using Gamma App
-Includes:
-Project goal
-Process flow
-Insights & dashboards
-Recommendations
+Created a database and imported the cleaned dataset
 
-Key Results & Insights
-Identified important patterns in customer behaviour
-Highlighted top-performing categories/products
-Found factors influencing revenue and retention
-Provided actionable business recommendations
+Executed queries involving aggregations, filtering, and grouping
+
+Performed business-oriented analysis such as revenue trends, customer segmentation, and product performance
+
+5. Power BI Dashboard
+
+Connected SQL Server data to Power BI
+
+Designed interactive dashboards with visuals such as KPI cards, bar charts, line charts, and tables
+
+Added filters and slicers for deeper analysis
+
+Highlighted key business insights
+
+6. Report Creation
+
+Summarized insights, findings, and important metrics
+
+Explained trends and business recommendations
+
+Supported the report with visual evidence
+
+7. Presentation (Gamma)
+
+Created a structured project presentation
+
+Included the objective, methodology, dashboard screenshots, and final insights
+
+Key Results and Insights
+
+Identified patterns in customer behavior
+
+Highlighted top-performing products or categories
+
+Analyzed revenue trends and influencing factors
+
+Derived actionable recommendations for the business
+
 
 How to Run the Project
 Requirements
+
 Python 3.x
-Required Python libraries: pandas, numpy, matplotlib, seaborn
-SQL Server (with SQL Server Management Studio)
+
+Required libraries: pandas, numpy, matplotlib, seaborn
+
+SQL Server along with SQL Server Management Studio (SSMS)
+
 Power BI Desktop
 
-Steps to Run
+Steps
+
 Clone the repository
-Open the Python notebook and run all cells for EDA & cleaning
-Import the cleaned CSV into SQL Server
-Run the SQL queries provided in the SQL script
-Open the Power BI (.pbix) file to view the dashboard
-View the project report and Gamma presentation
+
+Open and run the Python notebook to perform EDA and cleaning
+
+Import the cleaned CSV file into SQL Server
+
+Execute the SQL queries from the SQL script
+
+Open the Power BI (.pbix) file to explore the dashboard
+
+Review the project report and Gamma presentation
 
 Contact
-If you have any questions or would like to discuss the project:
-Nandana V Shamjith
+
+For queries or collaboration:
+Name: Nandana V Shamjith
 LinkedIn: www.linkedin.com/in/690374282
-Email: (nandanavshamjith39@gmail.com)
+
+Email: nandanavshamjith39@gmail.com
