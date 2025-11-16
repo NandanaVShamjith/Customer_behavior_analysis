@@ -1,6 +1,8 @@
 # Customer_behavior_analysis
 
 Data Analytics Project – End-to-End Pipeline
+
+
 Overview
 
 This project demonstrates a complete end-to-end data analytics workflow, starting from loading a dataset in Python to building a fully interactive Power BI dashboard. It highlights my skills in Python (EDA and Cleaning), SQL Server (Querying), Data Visualization, Report Creation, and Presentation Building.
