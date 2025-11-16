@@ -2,7 +2,9 @@
 Customer Behavior Analysis project using Python, SQL and Power BI to explore spending patterns, subscription behavior, product performance, age-group trends, and revenue drivers. The dashboard highlights key insights to help understand customer habits and business performance.
 
 Data Analytics Project – End-to-End Pipeline
+
 Overview
+
 This project demonstrates a complete end-to-end data analytics workflow, starting from loading a dataset in Python to building a fully interactive Power BI dashboard. It highlights my skills in Python (EDA & Cleaning), SQL Server (Querying), Data Visualization, and Report Creation.
 The goal of the project is to extract meaningful insights, improve decision-making, and showcase a practical analytics pipeline.
 
