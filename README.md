@@ -3,7 +3,6 @@ Customer Behavior Analysis project using Python, SQL and Power BI to explore spe
 
 Data Analytics Project – End-to-End Pipeline
 Overview
-
 This project demonstrates a complete end-to-end data analytics workflow, starting from loading a dataset in Python to building a fully interactive Power BI dashboard. It highlights my skills in Python (EDA & Cleaning), SQL Server (Querying), Data Visualization, and Report Creation.
 The goal of the project is to extract meaningful insights, improve decision-making, and showcase a practical analytics pipeline.
 
@@ -89,7 +88,7 @@ Run the SQL queries provided in the SQL script
 Open the Power BI (.pbix) file to view the dashboard
 View the project report and Gamma presentation
 
-📬 Contact
+Contact
 If you have any questions or would like to discuss the project:
 Nandana V Shamjith
 LinkedIn: www.linkedin.com/in/690374282
