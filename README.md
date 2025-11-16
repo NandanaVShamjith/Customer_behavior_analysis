@@ -8,6 +8,7 @@ Overview
 This project demonstrates a complete end-to-end data analytics workflow, starting from loading a dataset in Python to building a fully interactive Power BI dashboard. It highlights my skills in Python (EDA and Cleaning), SQL Server (Querying), Data Visualization, Report Creation, and Presentation Building.
 The objective is to extract meaningful insights that support business decision-making.
 
+
 Dataset
 
 The dataset used in this project contains information related to customer purchases (or relevant domain).
@@ -30,12 +31,14 @@ Gamma App – For creating the final presentation
 
 GitHub – For version control and documentation
 
+
 Project Steps
 1. Data Loading (Python)
 
 Loaded the dataset using Pandas
 
 Verified data types, column structure, missing values, and dataset shape
+
 
 2. Exploratory Data Analysis (EDA)
 
@@ -46,6 +49,7 @@ Performed univariate and bivariate analysis
 Created visualizations to understand distributions and correlations
 
 Identified outliers and trends
+
 
 3. Data Cleaning
 
@@ -59,6 +63,7 @@ Formatted columns (dates, categories, numerical fields)
 
 Exported the cleaned dataset for SQL and Power BI
 
+
 4. SQL Analysis (SQL Server)
 
 Created a database and imported the cleaned dataset
@@ -66,6 +71,7 @@ Created a database and imported the cleaned dataset
 Executed queries involving aggregations, filtering, and grouping
 
 Performed business-oriented analysis such as revenue trends, customer segmentation, and product performance
+
 
 5. Power BI Dashboard
 
@@ -77,6 +83,7 @@ Added filters and slicers for deeper analysis
 
 Highlighted key business insights
 
+
 6. Report Creation
 
 Summarized insights, findings, and important metrics
@@ -84,6 +91,7 @@ Summarized insights, findings, and important metrics
 Explained trends and business recommendations
 
 Supported the report with visual evidence
+
 
 7. Presentation (Gamma)
 
@@ -102,6 +110,8 @@ Analyzed revenue trends and influencing factors
 Derived actionable recommendations for the business
 
 
+
+
 How to Run the Project
 Requirements
 
@@ -112,6 +122,7 @@ Required libraries: pandas, numpy, matplotlib, seaborn
 SQL Server along with SQL Server Management Studio (SSMS)
 
 Power BI Desktop
+
 
 Steps
 
@@ -126,6 +137,8 @@ Execute the SQL queries from the SQL script
 Open the Power BI (.pbix) file to explore the dashboard
 
 Review the project report and Gamma presentation
+
+
 
 Contact
 
